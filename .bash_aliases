@@ -22,3 +22,4 @@ alias glo='git log --oneline'
 alias gcm='git commit -m'
 
 alias fd='fdfind'
+alias z='fasd_cd -d'
