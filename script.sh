@@ -33,6 +33,6 @@ mkdir -p ~/.vim/colors
 cp ./vim-code-dark/colors/codedark.vim ~/.vim/colors/
 
 mkdir -p $HOME/.vim/rc
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/Shougo/dein-installer.vim/master/installer.sh)"
-cp ./dein.toml $HOME/.vim/rc/
-touch $HOME/.vim/rc/dein_lazy.toml
+# sh -c "$(curl -fsSL https://raw.githubusercontent.com/Shougo/dein-installer.vim/master/installer.sh)"
+# cp ./dein.toml $HOME/.vim/rc/
+# touch $HOME/.vim/rc/dein_lazy.toml
